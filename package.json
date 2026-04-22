@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "clipboardy": "^5.3.1"
+  }
+}
